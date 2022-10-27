@@ -20,7 +20,7 @@ public class JavaMiniPr3 {
     public static void main(String[] args) throws FileNotFoundException {
         int [][] arr = new int[256][2];
 
-        File inFile = new File("C:/Users/Niki/desktop/backup/in.txt");
+        File inFile = new File("C:/.../in.txt");
 
         Scanner in = new Scanner (inFile);
 
